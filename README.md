@@ -1,4 +1,4 @@
-# Sprint_security_JWT
+# Spring_security_JWT
 This project demonstrates how to implement Spring Security with JSON Web Tokens (JWT) for authentication and authorization in a ReactJS application.
 
 
